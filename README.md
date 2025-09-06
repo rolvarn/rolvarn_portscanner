@@ -2,10 +2,10 @@
 
 Kullanım:
 
-Tüm portlar için;
+Tüm portlar için:
 python3 rolvarn_portscanner.py -i <ip/hostname> -p all
 
-Belirli portlar için;
+Belirli portlar için:
 python3 rolvarn_portscanner.py -i <ip/hostname> -p 21,22,80
 
 !!!
